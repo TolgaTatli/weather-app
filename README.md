@@ -1,4 +1,4 @@
-# weather_app
+# Weather App | OpenWeather API
 
 A new Flutter project.
 
